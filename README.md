@@ -9,6 +9,7 @@ This project is a machine learning-powered web application that predicts whether
 - Built with Flask for lightweight and fast deployment.
 
 ## 📂 Project Structure
+'''
 Customer-Churn-Prediction/
 ├── templates/
 │ └── index.html # Web interface template for input and prediction
