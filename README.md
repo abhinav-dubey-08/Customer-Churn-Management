@@ -37,8 +37,6 @@ This project is a machine learning-powered web application that predicts whether
 ```
 Customer-Churn-Management-app/
 ├── templates/                      
-│   ├── index.html                # Web interface template for input and prediction
-│ 
-│   
+│   ├── index.html                # Web interface template for input and prediction  
 │
 ├── app.py                        #  Flask application file
