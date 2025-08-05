@@ -8,14 +8,6 @@ This project is a machine learning-powered web application that predicts whether
 - Model trained and serialized using Scikit-learn.
 - Built with Flask for lightweight and fast deployment.
 
-## 📂 Project Structure
-'''
-Customer-Churn-Prediction/
-├── templates/
-│ └── index.html                     # Web interface template for input and prediction
-│
-├── app.py                           # Flask application file
-├── Customer Churn Prediction.ipynb  # Jupyter notebook for model training
 
 ## 🛠 Technologies Used
 - **Python 3**
@@ -40,3 +32,13 @@ Customer-Churn-Prediction/
 - Output:
   - **1** → Customer will leave the bank
   - **0** → Customer will not leave the bank
+
+ ## 📂 Project Structure
+```
+Customer-Churn-Management-app/
+├── templates/                      
+│   ├── index.html                # Web interface template for input and prediction
+│ 
+│   
+│
+├── app.py                        #  Flask application file
