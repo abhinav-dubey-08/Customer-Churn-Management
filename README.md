@@ -9,7 +9,13 @@ This project is a machine learning-powered web application that predicts whether
 - Built with Flask for lightweight and fast deployment.
 
 ## 📂 Project Structure
-<pre> ``` Customer-Churn-Prediction/ ├── app.py ├── templates/ │ └── index.html ├── Customer Churn Prediction.ipynb ``` </pre>
+Customer-Churn-Prediction/
+│
+├── app.py                           # Flask application file
+├── Customer Churn Prediction.ipynb  # Jupyter notebook for model training
+│
+└── templates/
+    └── index.html                   # Web interface template for input and prediction
 
 ## 🛠 Technologies Used
 - **Python 3**
