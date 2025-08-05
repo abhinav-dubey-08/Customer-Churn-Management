@@ -12,10 +12,10 @@ This project is a machine learning-powered web application that predicts whether
 '''
 Customer-Churn-Prediction/
 ├── templates/
-│ └── index.html # Web interface template for input and prediction
+│ └── index.html                     # Web interface template for input and prediction
 │
-├── app.py # Flask application file
-├── Customer Churn Prediction.ipynb # Jupyter notebook for model training
+├── app.py                           # Flask application file
+├── Customer Churn Prediction.ipynb  # Jupyter notebook for model training
 
 ## 🛠 Technologies Used
 - **Python 3**
